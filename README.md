@@ -55,7 +55,7 @@ Building projects, CPUs, AI tools, apps & more 💻
 ### 📫 Contact Me
 <p>
 <a href="https://t.me/YourHandle"><img src="https://img.shields.io/badge/Telegram-@YourHandle-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="mailto:baraaahmedali2012@gmail.com"><img src="https://img.shields.io/badge/Email-YourEmail-red?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+<a href="mailto:baraaahmedali2012@gmail.com"><img src="https://img.shields.io/badge/Email-Baraa-red?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/Website-YourWebsite-green?style=for-the-badge&logo=google-chrome&logoColor=fff" /></a>
 </p>
 
