@@ -10,7 +10,7 @@ Building projects, CPUs, AI tools, apps & more 💻
 - 🌐 **Full-Stack Development:** Python, Dart, Flutter, React, HTML, CSS, JS, TS  
 - ⚡ **Project Development:** CPU demo models, AI & automation tools, interactive apps, bots  
 - 🛠️ **Advanced Skills:** Clean code, modular architecture, DB management, hardware simulation, AI integration  
-- 🎮 **Other Interests:** Gaming, smart automation, teaching programming  
+- 🎮 **Other Interests:** Gaming, smart automation 
 
 ---
 
